@@ -3,7 +3,6 @@ html {
     font-family: 'Acme', sans-serif; /* this should be the rest of the output you got from Google fonts */
 }
 
-
 h1 {
         margin:0;
         padding:  20px  0;
@@ -13,7 +12,6 @@ h1 {
         color: rgb(194, 17, 17);
       }
       
-
 p, li {
         font-size: 16px;    
         line-height: 2;
@@ -23,7 +21,6 @@ p, li {
 html {    
         background-color: #000000;
       }
-
 
 h2 {
     margin:0;
